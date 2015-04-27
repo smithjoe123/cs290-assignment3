@@ -1,1 +1,40 @@
-You log goes in this  file.
+Start: Mon, 13 Apr 2015 12:15:00 -0800
+End: Mon, 14 Apr 2015 02:00:00 -0800
+Tasks: Attempted to do the assignment. Had no idea how to do it. Worked on going through the course material. Got around half way done.
+
+Start: Wed, 15 Apr 2015 10:35:00 -0800]
+End: Wed, 15 Apr 2015 22:05:00 -0800
+Tasks: Continued working on course material
+
+Start: Wed, 16 Apr 2015 11:00:00 -0800]
+End: Wed, 16 Apr 2015 24:00:00 -0800
+Tasks: Worked on doing the assignment. Was filled with error. Had to create own test harness independently and got some of the assignment to work.
+
+Start: Wed, 16 Apr 2015 11:00:00 -0800
+End: Wed, 16 Apr 2015 24:00:00 -0800
+Tasks: Worked on doing the assignment. Was filled with error. Had to create own test harness independently and got some of the assignment to work.
+
+Start: Friday, 20, Apr 2015 9:10:00 -0800
+End: Wed, 16 Apr 2015 22:23:00 -0800
+Tasks: finished the assignment. Got most of it working. 
+
+part 2
+
+Start: Tuesday, 21, Apr 2015 12:20:00 -0800
+End: Wed, 21 Apr 2015 22:23:00 -0800
+Tasks: Attempted to do assignment part 2. Was utterly lost. Started doing the study material
+
+Start Weds, 22 Apr 2015 14:20:00 -0800
+End: Wed, 22 Apr 2015 22:00:00 -0800 
+Tasks: Finished the class study material for the week
+
+Start Fri, 21 Apr 2015 10:20:00 -0800
+End: fri, 21 Apr 2015 24:04:00 -0800 
+Tasks: Worked on assignment 3 part 2. Little by little completed some parts of it. Had to research extensibly on internet as had no idea how to do after completing study material.
+
+Start Sat, 22 Apr 2015 10:20:00 -0800
+End: Wed, 21 Apr 2015 20:00:00 -0800 
+Tasks: Worked on assignment 3 Part 2. 
+
+
+
